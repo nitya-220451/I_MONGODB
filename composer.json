@@ -1,0 +1,6 @@
+{
+    "name": "n2204/i_mongo-db",
+    "require": {
+        "mongodb/mongodb": "^2.2"
+    }
+}
