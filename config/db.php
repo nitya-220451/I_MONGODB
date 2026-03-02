@@ -5,3 +5,4 @@ $client = new MongoDB\Client("mongodb://localhost:27017");
 $db = $client->i_mongoDB; // database name
 $users = $db->users; // collection name
 ?>
+hello
